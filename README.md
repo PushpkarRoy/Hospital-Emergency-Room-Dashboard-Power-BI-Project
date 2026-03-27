@@ -10,7 +10,7 @@ The Hospital Emergency Room Dashboard helps you answer critical business questio
 
 - How many patients visited the ER?
 - What is the average wait time?
-- What are the top referred departments?
+- What are the top referred departments? 
 - Are patients being seen within 30 minutes?
 - What is the breakdown of patients by gender, age group, and race? 
 ---

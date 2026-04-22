@@ -17,7 +17,7 @@ The Hospital Emergency Room Dashboard helps you answer critical business questio
 
 ## 🧩 Key Features
 
-- 📆 **Monthly & Consolidated Views**
+- 📆 **Monthly & Consolidated Views**   
 - 👨‍⚕️ **Demographic Analysis** (Gender, Race, Age)
 - 🕐 **Wait Time Distribution**
 - 📈 **Admission Status & Trends**
